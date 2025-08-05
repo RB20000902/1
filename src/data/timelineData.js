@@ -3,15 +3,15 @@ export const timelineData = {
     {
       title: "Social Awareness through Local Public Events and Programs during Festivals",
       image: "/images/placeholder.jpg",
-      shortDesc: "DES",
-      longDesc: ""
+      shortDesc: "CARE FOUNDATION – A Journey of Hope from the Heart of Khar East",
+      longDesc: "Founded in 2011 in the slums of Khar East, Mumbai, CARE FOUNDATION began its journey as a youth-led initiative driven by purpose and passion. The young team started with small awareness drives and impactful programs during festivals and public functions, aiming to spread positivity and social consciousness in their community. Through these early efforts, they inspired change, empowered residents, and laid the foundation for a brighter, more hopeful future — one slum, one story, one smile at a time."
     }
   ],
   "2012": [
     {
       title: "National Flag Pride Rally",
       image: "/images/placeholder.jpg",
-      shortDesc: "",
+      shortDesc: "The National Flag Pride Rally – A Movement of Patriotism by CARE FOUNDATION",
       longDesc: ""
     },
     {
