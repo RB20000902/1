@@ -25,8 +25,8 @@ export const timelineData = {
     {
       title: "National Flag Pride Rally",
       image: "/images/placeholder.jpg",
-      shortDesc: "",
-      longDesc: ""
+      shortDesc: "National Flag Pride Rally 2013 – A Stronger Voice for Patriotism and Social Change",
+      longDesc: "In 2012, CARE FOUNDATION launched a powerful and heartfelt initiative – The National Flag Pride Rally, conceptualized by Chairman Mr. Aniket Ghanshyam Bhankal. Born out of a deep sense of patriotism and responsibility, this unique movement aimed to uphold the dignity of our beloved Tiranga throughout the year, especially on days of national significance like 26th January and 15th August. The rally was more than just a march — it was a mission. Volunteers walked through various neighborhoods, raising awareness about the respectful handling of the Indian National Flag. They educated the public on how to hoist, de-hoist, and dispose of the flag with due honor. A key highlight of the rally was a street play that powerfully conveyed messages on civic pride and national respect, drawing attention and admiration from the community. A defining moment of the initiative was when volunteers actively picked up flags lying on the ground in disrespectful conditions, preserving them with the honor they deserve. The rally received an overwhelming response in its very first year, igniting a sense of national pride and civic duty among hundreds. The National Flag Pride Rally remains a shining example of how a small idea, rooted in respect and love for the nation, can spark a meaningful change in society."
     },
     {
       title: "Socio-cultural program for youth motivation",
