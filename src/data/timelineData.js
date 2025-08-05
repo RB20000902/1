@@ -16,13 +16,7 @@ export const timelineData = {
 The rally was more than just a march — it was a mission. Volunteers walked through various neighborhoods, raising awareness about the respectful handling of the Indian National Flag. They educated the public on how to hoist, de-hoist, and dispose of the flag with due honor. A key highlight of the rally was a street play that powerfully conveyed messages on civic pride and national respect, drawing attention and admiration from the community.
 A defining moment of the initiative was when volunteers actively picked up flags lying on the ground in disrespectful conditions, preserving them with the honor they deserve. The rally received an overwhelming response in its very first year, igniting a sense of national pride and civic duty among hundreds.
 The National Flag Pride Rally remains a shining example of how a small idea, rooted in respect and love for the nation, can spark a meaningful change in society.
-Official Inauguration of CARE FOUNDATION – A Celebration of Inspiration and Empowerment
- Held on 14th August, 2012
-CARE FOUNDATION marked its official inauguration on 14th August, 2012, under the visionary leadership of Dr. Aniket Ghanshyam Bhankal and the dedicated members of the organization. This landmark event wasn’t just a beginning — it was a powerful statement of purpose.
-With a unique concept at its core, the event honored exceptional individuals from diverse fields such as education, medicine, and sports, celebrating their contributions to society. It also recognized inspiring students who had achieved remarkable success in academics, athletics, and other areas, proving that excellence can emerge from any background.
-The event served as a platform for children from the slums to break free from their inhibitions, step onto the stage with confidence, and discover their potential through performances and creative expression. It was a day of encouragement, empowerment, and celebration, with teachers, social workers, and youth coming together to support and uplift the community.
-This inaugural celebration set the tone for CARE FOUNDATION’s journey — one rooted in recognition, empowerment, and community transformation.
-"
+Official Inauguration of CARE FOUNDATION – A Celebration of Inspiration and Empowerment"
     },
     {
       title: "Socio-cultural program for youth motivation",
